@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite the following paper."
+title: "Ultra-compact twin stars with hybrid equations of state from bosonic dark matter — data release"
+license: CC-BY-4.0
+authors:
+  - family-names: Rather
+    given-names: Ishfaq Ahmad
+    affiliation: "Institut für Theoretische Physik, Goethe Universität Frankfurt"
+  - family-names: Pitz
+    given-names: Sarah Louisa
+    affiliation: "Institut für Theoretische Physik, Goethe Universität Frankfurt"
+  - family-names: Schaffner-Bielich
+    given-names: Jürgen
+    affiliation: "Institut für Theoretische Physik, Goethe Universität Frankfurt"
+preferred-citation:
+  type: article
+  title: "Ultra-compact twin stars with hybrid equations of state from bosonic dark matter"
+  authors:
+    - family-names: Rather
+      given-names: Ishfaq Ahmad
+    - family-names: Pitz
+      given-names: Sarah Louisa
+    - family-names: Schaffner-Bielich
+      given-names: Jürgen
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2609.03964"
